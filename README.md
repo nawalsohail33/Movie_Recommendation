@@ -1,0 +1,1 @@
+A movie recommendation system made using php and MySql. This project was created to get hands on experience on the use of databases. This simple recommendation system recommends users movies based on their previous ratings
